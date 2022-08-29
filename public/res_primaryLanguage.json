@@ -1,0 +1,115 @@
+{
+    "basic_info": {
+      "description_header": "Hello there!",
+      "description": "👋 My name is Omar Darweesh. Result-driven computer science graduate passionate about web development and managing databases. great problem-solving skills I'm also a good team worker.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "HR-management system",
+        "startDate": "2022",
+        "description": "A great web-app where you as an HR can manage the company's employees data and view their information.",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpg",
+          "images/portfolio/animal-shelter/p2.jpg"
+        ],
+        "url": "https://github.com/dee-desu/HR-management-system",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Restaurant menu Generator",
+        "startDate": "2022",
+        "description": "Here you can create your own menu by naming the item pricing it and even choosing what type of food is it, I've learned a lot. ",
+        "images": [
+          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/p2.jpg"
+        ],
+        "url": "https://github.com/dee-desu/Restaurant",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "To-Do list",
+        "startDate": "2022",
+        "description": "One of the first projects i've worked on so far was a good warm up in HTML",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          }
+          
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "LTUC - ASAC",
+        "title": "Student",
+        "years": "7.2022 - present",
+        "mainTech": [
+          "Python"
+        ],
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap",
+          "Django",
+          "Angular Material"
+        ]
+      },
+      {
+        "company": "ESKADENIA",
+        "title": "Full-stack web developer",
+        "years": "04.2023 - present",
+        "mainTech": [
+          "Full stack"
+        ],
+        "technologies": [
+          "RxJS",
+          "Django",
+          "PHP",
+          "JavaScript",
+          "DHTMLX Gantt",
+          "React.Js",
+          "Python"
+        ]
+      }
+    ]
+  }
